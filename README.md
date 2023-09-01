@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 ### About  Me 
 
 I aim to work in the fields of information technologies, Big Data and Business Analytics. Among my future goals, I want to work & on projects on data-driven artificial intelligence. In-depth knowledge of data visualization libraries such as Matplotlib, Seaborn. I experienced designing data models using relational databases like PostgreSQL, Oracle and non-relational databases like MongoDB.
+
+
+- 🌍 I'm based in Sivas
+- ✉️ You can contact me at selvatasxx@gmail.com
+- 🚀 I'm currently working on Hiyellab - ARGE
+  

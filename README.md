@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 -->
 
 ### Data Science & Machine Learning Enthusiast 
-I'm working as a Software developer on Hiyellab - Arge. I love to work on projects on data-driven artificial intelligence. 
+I'm working as a Software developer at Hiyellab - Arge. I love to work on projects on data-driven artificial intelligence. 
 
 - 🌍 I'm based in Sivas
 - ✉️ You can contact me at selvatasxx@gmail.com
-- 🚀 I'm currently working on Hiyellab - ARGE 
 - 🌱 I’m currently learning Deep Learning
   

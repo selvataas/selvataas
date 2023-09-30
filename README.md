@@ -18,7 +18,4 @@ I'm working as a Software developer at Hiyellab - Arge. I love to work on projec
 - 🌍 I'm based in Sivas
 - ✉️ You can contact me at selvatasxx@gmail.com
 - 🌱 I’m currently learning Deep Learning
-
-  Language & Tools:
-* Python
   

@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 ### Data Science & Machine Learning Enthusiast 
-I'm working as a Data Scientist at Aspek Savunma ve İleri Teknoloji. I love to work on projects on data-driven artificial intelligence. 
+I'm working as a Moledro Software. I love to work on projects on data-driven artificial intelligence. 
 
 - 🌍 I'm based in Sivas
 - ✉️ You can contact me at selvatasxx@gmail.com

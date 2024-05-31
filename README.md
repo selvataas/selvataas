@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 ### Data Science & Machine Learning Enthusiast 
-I work as a data scientist at Moledro Software. I love to work on projects on data-driven artificial intelligence. 
+I work as a data scientist at Topfiyt. I love to work on projects on data-driven artificial intelligence. 
 
 - 🌍 I'm based in Sivas
 - ✉️ You can contact me at selvataas@gmail.com

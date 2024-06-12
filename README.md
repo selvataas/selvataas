@@ -1,4 +1,7 @@
 
+![Ekran görüntüsü 2024-06-12 113049](https://github.com/selvataas/selvataas/assets/56981128/09cf720b-2067-43df-8dc7-72a80f48b846)
+
+
 ###                                                                             01001000  01001001👋, I am Selva
 
 

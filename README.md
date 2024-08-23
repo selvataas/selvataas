@@ -18,4 +18,7 @@ Analyzing data, working on data-driven artificial intelligence projects, and par
 - 🌍 I'm based in Sivas
 - ✉️ You can contact me at selvataas@gmail.com
 - 🧠 I’m currently learning Deep Learning
-  
+
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selvataas&show_icons=true&theme=radical)
+

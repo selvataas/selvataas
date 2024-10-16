@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Data Science & AI Enthusiast 
 Analyzing data, working on data-driven artificial intelligence projects, and participating in projects, I am someone who is curious and eager to explore. As a mathematician, I possess good teamwork skills, an open mind, and high motivation. I excel in solution-oriented work, analytical thinking, problem-solving ability, and have confident communication skills. I work as a data scientist at Topfiyt. I love to work on projects on data-driven artificial intelligence. 
 
-- 🌍 I'm based in Sivas
+- 🌍 I'm based in İstanbul
 - ✉️ You can contact me at selvataas@gmail.com
 - 🧠 I’m currently learning Deep Learning
 

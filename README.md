@@ -25,3 +25,6 @@ Analyzing data, working on data-driven artificial intelligence projects, and par
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selvataas&layout=compact&theme=radical)
 
+  ![Commit Activity](https://github.com/consumer_complaint_summary/graphs/commit-activity)
+
+

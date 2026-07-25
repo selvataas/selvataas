@@ -1,5 +1,87 @@
 
+<div align="center">
 
+#  Hi, I'm Selva -  01001000  01001001 🧕🏻
+
+### Applied AI Engineer • LLMs • RAG • Agentic AI • Machine Learning
+
+Large Language Models • Retrieval-Augmented Generation • AI Agents • Information Retrieval • MLOps
+
+<p>
+
+<a href="https://linkedin.com/in/selvatas">
+<img src="https://img.shields.io/badge/LinkedIn-selvatas-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://huggingface.co/selvatas">
+<img src="https://img.shields.io/badge/HuggingFace-selvatas-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+</a>
+
+<a href="mailto:selvataas@gmail.com">
+<img src="https://img.shields.io/badge/Email-selvataas@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+</div>
+
+---
+
+I'm an **Applied AI Engineer** passionate about building production-ready AI systems across the full LLM lifecycle—from retrieval and fine-tuning to evaluation and deployment. I enjoy transforming research into scalable software by combining modern LLM frameworks with practical engineering.
+
+- Built **production-ready RAG** and **GraphRAG** pipelines
+- Developed **multi-agent AI systems** using LangGraph & CrewAI
+- Fine-tuned **Large Language Models** with LoRA / QLoRA
+- Designed **LLM evaluation** and benchmarking pipelines
+- Built scalable AI services with FastAPI, Docker and Kubernetes
+
+## Publications
+
+- **TurkColBERT:** A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval — **ACLing 2025**
+- **Guided Decoding and Its Critical Role in Retrieval-Augmented Generation** — **SIU 2025 (IEEE)**
+- **Turk-LettuceDetect:** Hallucination Detection for Turkish RAG Applications — **FLLM 2025 (IEEE)**
+
+## Tech
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI / LLM**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-2F80ED?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6C63FF?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-444444?style=flat-square)
+![AutoGen](https://img.shields.io/badge/AutoGen-555555?style=flat-square)
+
+**Vector & Graph Databases**
+
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-EF4444?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-0F172A?style=flat-square)
+
+**Backend & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
+
+---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=selvataas&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvataas&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 
 <!--
 **selvataas/selvataas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +91,7 @@ Here are some ideas to get you started:
 -->
 
                                                            
-           
+<!--           
 ###                                                                                           
 ###                                                                                               
 
@@ -26,7 +108,7 @@ Building production-ready AI systems with Large Language Models, Retrieval-Augme
   <a href="https://siteniz.github.io">
     <img src="https://img.shields.io/badge/Portfolio-siteniz.github.io-2ea44f?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
- -->
+ 
 <a href="https://linkedin.com/in/selvatas">
     <img src="https://img.shields.io/badge/LinkedIn-selvatas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>

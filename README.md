@@ -74,7 +74,6 @@ I'm an **Applied AI Engineer** passionate about building production-ready AI sys
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
 
 
-
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=selvataas&show_icons=true&theme=github_dark&hide_border=true"/>

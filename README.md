@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 Building production-ready AI systems with Large Language Models, Retrieval-Augmented Generation, Multi-Agent Architectures, and MLOps.
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/selvatas/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 
-  <a href="https://huggingface.co/YOUR_USERNAME">
+  <a href="https://huggingface.co/selvatas">
     <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface">
   </a>
 

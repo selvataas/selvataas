@@ -12,7 +12,6 @@ Here are some ideas to get you started:
            
 ###                                                                                            01001000  01001001 🧕🏻
 ###                                                                                                I'm Selva
-### Data Science & AI Enthusiast 
 
 <div align="center">
 

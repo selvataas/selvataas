@@ -37,9 +37,10 @@ I'm an **Applied AI Engineer** passionate about building production-ready AI sys
 
 ## Publications
 
-- **TurkColBERT:** A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval — **ACLing 2025**
-- **Guided Decoding and Its Critical Role in Retrieval-Augmented Generation** — **SIU 2025 (IEEE)**
-- **Turk-LettuceDetect:** Hallucination Detection for Turkish RAG Applications — **FLLM 2025 (IEEE)**
+- **TurkColBERT:** A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval — **ACLing 2025**  
+  [Paper](https://arxiv.org/pdf/2511.16528)
+- **Guided Decoding and Its Critical Role in Retrieval-Augmented Generation** — **SIU 2025 (IEEE)**  [Paper](https://arxiv.org/pdf/2509.06631)
+- **Turk-LettuceDetect:** Hallucination Detection for Turkish RAG Applications — **FLLM 2025 (IEEE)** [Paper](https://arxiv.org/pdf/2509.17671)
 
 ## Tech
 

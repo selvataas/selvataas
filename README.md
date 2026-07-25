@@ -1,7 +1,7 @@
 
 <div align="center">
-
-#  Hi, I'm Selva -  01001000  01001001 🧕🏻
+#  01001000  01001001 🧕🏻
+#  Hi, I'm Selva 
 
 ### Applied AI Engineer || • LLMs • Agents • Agentic AI • NLP • Inference • NLP
 

@@ -83,9 +83,11 @@ I'm an **Applied AI Engineer** passionate about building production-ready AI sys
 
 </div>
 
-GitHub Stats
+## Contribution Graph
 
-Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/selvataas/selvataas/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 
 <!--

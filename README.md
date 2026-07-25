@@ -32,7 +32,7 @@ Building production-ready AI systems with Large Language Models, Retrieval-Augme
     <img src="https://img.shields.io/badge/Hugging_Face-selvatas-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
   </a>
   <a href="mailto:selvataas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-selvatas@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-selvataas@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 

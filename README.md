@@ -91,15 +91,7 @@ I'm an **Applied AI Engineer** passionate about building production-ready AI sys
 
 </div>
 
----
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=selvataas&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvataas&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
 
 
 

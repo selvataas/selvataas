@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Selva Taş
 
-### AI Engineer • LLMs • RAG • Agentic AI • Machine Learning
+### Applied AI Engineer • LLMs • RAG • Agentic AI • Machine Learning
 
 Building production-ready AI systems with Large Language Models, Retrieval-Augmented Generation, Multi-Agent Architectures, and MLOps.
 

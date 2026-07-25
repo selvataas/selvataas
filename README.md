@@ -83,6 +83,11 @@ I'm an **Applied AI Engineer** passionate about building production-ready AI sys
 
 </div>
 
+GitHub Stats
+
+Contribution Graph
+
+
 <!--
 **selvataas/selvataas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

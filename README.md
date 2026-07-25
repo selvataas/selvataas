@@ -29,7 +29,7 @@ Building production-ready intelligent systems from AI research
 
 I'm an **Applied AI Engineer** working across the full LLM lifecycle — from model adaptation and retrieval architectures to evaluation, inference optimization, and agentic AI systems — with a research focus on Turkish NLP, Information Retrieval, and reliable LLM applications. I bridge AI research and production engineering by building scalable, high-performance systems powered by modern LLM technologies.
 
-- 🧠 **Model Training & Pretraining** — Trained and scaled Turkish LMs on HPC clusters (including MareNostrum 5, 6K+ GPU-hours)
+- 🧠 **Model Training & Pretraining** — Trained and scaled Turkish LMs on HPC clusters (MareNostrum 5)
 - ⚡ **Inference Optimization** — Production pipelines with vLLM, SGLang; FP8, GGUF, and NVFP4 quantization
 - 🔍 **Retrieval & RAG** — End-to-end RAG/GraphRAG systems with hybrid retrieval, reranking, semantic caching, and graph memory
 - 🤖 **Agentic AI** — Multi-agent architectures using LangGraph, CrewAI, and AutoGen for autonomous workflows

@@ -21,26 +21,20 @@ Here are some ideas to get you started:
 
 Building production-ready AI systems with Large Language Models, Retrieval-Augmented Generation, Multi-Agent Architectures, and MLOps.
 
-<p>
-  <a href="https://www.linkedin.com/in/selvatas/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<p align="center">
+  <a href="https://siteniz.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-siteniz.github.io-2ea44f?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
-
-  <a href="https://huggingface.co/selvatas">
-    <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface">
+  <a href="https://linkedin.com/in/kullaniciadi">
+    <img src="https://img.shields.io/badge/LinkedIn-kullaniciadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
-  <a href="https://github.com/selvataas">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  <a href="https://huggingface.co/kullaniciadi">
+    <img src="https://img.shields.io/badge/Hugging_Face-kullaniciadi-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
   </a>
-
-  <a href="mailto:selvataas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  <a href="mailto:email@ornek.com">
+    <img src="https://img.shields.io/badge/Email-email@ornek.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-
 </p>
-
-</div>
 
 ---
 

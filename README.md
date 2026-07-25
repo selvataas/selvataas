@@ -27,13 +27,16 @@ Building production-ready intelligent systems from AI research
 
 ---
 
-I'm an **Applied AI Engineer** passionate about building production-ready AI systems across the full LLM lifecycle—from retrieval and fine-tuning to evaluation and deployment. I enjoy transforming research into scalable software by combining modern LLM frameworks with practical engineering.
+I'm an **Applied AI Engineer** working across the full LLM lifecycle — from model adaptation and retrieval architectures to evaluation, inference optimization, and agentic AI systems — with a research focus on Turkish NLP, Information Retrieval, and reliable LLM applications. I bridge AI research and production engineering by building scalable, high-performance systems powered by modern LLM technologies.
 
-- Built **production-ready RAG** and **GraphRAG** pipelines
-- Developed **multi-agent AI systems** using LangGraph & CrewAI
-- Fine-tuned **Large Language Models** with LoRA / QLoRA
-- Designed **LLM evaluation** and benchmarking pipelines
-- Built scalable AI services with FastAPI, Docker and Kubernetes
+- Trained and scaled **Turkish language models** on HPC environments with multi-node GPU infrastructure
+- Optimized **LLM inference pipelines** across frontier model families using vLLM, SGLang, and advanced quantization techniques including FP8 and GGUF
+- Built advanced **RAG, GraphRAG, and hybrid retrieval systems** combining dense retrieval, late-interaction models, semantic caching, reranking strategies, vector databases, and graph-based memory
+- Developed **Agentic AI architectures and multi-agent systems** using LangGraph, CrewAI, and AutoGen for autonomous reasoning, planning, and tool-based workflows
+- Fine-tuned and adapted **Large Language Models** using PyTorch, Hugging Face Transformers, LoRA / QLoRA, and parameter-efficient fine-tuning techniques
+- Designed comprehensive **LLM evaluation and benchmarking frameworks** covering retrieval performance, hallucination detection, calibration, LLM-as-a-judge evaluation, and adversarial testing
+- Engineered scalable AI systems and deployment workflows with **FastAPI, Docker, Kubernetes, MLflow, and MLOps practices**
+- Conducted research in **Turkish NLP, Information Retrieval, and RAG reliability**, contributing to publications on retrieval optimization and hallucination detection in LLM systems
 
 ## Publications
 

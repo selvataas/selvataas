@@ -3,9 +3,9 @@
 
 #  Hi, I'm Selva -  01001000  01001001 🧕🏻
 
-### Applied AI Engineer • LLMs • RAG • Agentic AI • Machine Learning
+### Applied AI Engineer • LLMs • Agents • Agentic AI • NLP • Inference • NLP
 
-Large Language Models • Retrieval-Augmented Generation • AI Agents • Information Retrieval • MLOps
+Building production-ready intelligent systems from AI research
 
 <p>
 

@@ -21,12 +21,10 @@ Analyzing data, working on data-driven artificial intelligence projects, and par
 - 🧠 I’m currently learning Deep Learning
 
 
-  <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selvataas&show_icons=true&theme=radical)
-  -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selvataas&show_icons=true&theme=radical)
+
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selvataas&layout=compact&theme=radical)
-
-
 -->
 
 

@@ -3,7 +3,7 @@
 
 #  Hi, I'm Selva -  01001000  01001001 🧕🏻
 
-### Applied AI Engineer • LLMs • Agents • Agentic AI • NLP • Inference • NLP
+### Applied AI Engineer || • LLMs • Agents • Agentic AI • NLP • Inference • NLP
 
 Building production-ready intelligent systems from AI research
 

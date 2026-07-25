@@ -10,12 +10,12 @@ Here are some ideas to get you started:
 
                                                            
            
-###                                                                                            01001000  01001001 🧕🏻
-###                                                                                                I'm Selva
+###                                                                                           
+###                                                                                               
 
 <div align="center">
 
-# Selva Taş
+#  Hi, I'm Selva -  01001000  01001001 🧕🏻
 
 ### Applied AI Engineer • LLMs • RAG • Agentic AI • Machine Learning
 

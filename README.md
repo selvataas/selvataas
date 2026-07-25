@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 Building production-ready AI systems with Large Language Models, Retrieval-Augmented Generation, Multi-Agent Architectures, and MLOps.
 
 <p align="center">
+  <!--
   <a href="https://siteniz.github.io">
     <img src="https://img.shields.io/badge/Portfolio-siteniz.github.io-2ea44f?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
+  -->
   <a href="https://linkedin.com/in/selvatas">
     <img src="https://img.shields.io/badge/LinkedIn-selvatas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>

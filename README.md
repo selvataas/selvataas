@@ -73,7 +73,7 @@ I'm an **Applied AI Engineer** passionate about building production-ready AI sys
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
 
----
+
 
 <div align="center">
 
@@ -83,13 +83,9 @@ I'm an **Applied AI Engineer** passionate about building production-ready AI sys
 
 </div>
 
----
 
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=selvataas&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS">
 
-</div>
 
 
 

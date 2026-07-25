@@ -37,7 +37,7 @@ I'm an **Applied AI Engineer** passionate about building production-ready AI sys
 
 ## Publications
 
-- **RDP LoRA:** Geometry-Driven Identification for Parameter-Efficient Adaptation in Large Language Models - ** 2026**   📄 [Paper](https://arxiv.org/pdf/2604.19321)
+- **RDP LoRA:** Geometry-Driven Identification for Parameter-Efficient Adaptation in Large Language Models - **2026**   📄 [Paper](https://arxiv.org/pdf/2604.19321)
 - **TurkColBERT:** A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval — **ACLing 2025**  
   📄 [Paper](https://arxiv.org/pdf/2511.16528)
 - **Turk-LettuceDetect:** Hallucination Detection for Turkish RAG Applications — **FLLM 2025 (IEEE)** 📄 [Paper](https://arxiv.org/pdf/2509.17671)

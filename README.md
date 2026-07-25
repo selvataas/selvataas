@@ -25,13 +25,13 @@ Building production-ready AI systems with Large Language Models, Retrieval-Augme
   <a href="https://siteniz.github.io">
     <img src="https://img.shields.io/badge/Portfolio-siteniz.github.io-2ea44f?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/kullaniciadi">
+  <a href="https://linkedin.com/in/selvatas">
     <img src="https://img.shields.io/badge/LinkedIn-kullaniciadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://huggingface.co/kullaniciadi">
+  <a href="https://huggingface.co/selvatas">
     <img src="https://img.shields.io/badge/Hugging_Face-kullaniciadi-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
   </a>
-  <a href="mailto:email@ornek.com">
+  <a href="mailto:selvataas@gmail.com">
     <img src="https://img.shields.io/badge/Email-email@ornek.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
